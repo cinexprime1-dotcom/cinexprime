@@ -11,7 +11,6 @@ import {
   Loader2,
   X
 } from 'lucide-react';
-import { CastDeviceModal } from './CastDeviceModal';
 
 interface VideoPlayerProps {
   videoUrl: string;
